@@ -1,0 +1,20 @@
+{
+    "name": "jusce/workshop-conccepar",
+    "description": "Este projeto é uma demonstracao do uso do slim framework",
+    "type": "project",
+    "require": {
+        "slim/slim": "^4.13",
+        "slim/psr7": "^1.6"
+    },
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Jusce\\WorkshopConccepar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juscelino Fernandes da Costa Junior"
+        }
+    ]
+}
